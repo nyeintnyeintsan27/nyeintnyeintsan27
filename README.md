@@ -83,14 +83,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyeintnyeintsan27&show_icons=true&theme=omni&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff99cc&text_color=555" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyeintnyeintsan27&theme=omni&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff99cc&currStreakLabel=ff69b4&sideLabels=555" alt="GitHub Streak" width="48%" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyeintnyeintsan27&theme=omni&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff99cc&currStreakLabel=ff69b4&sideLabels=555" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeintnyeintsan27&layout=compact&theme=omni&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=555" alt="Top Languages" width="45%" />
-</p>
+
 
 ---
 
@@ -105,11 +102,23 @@
 ### 🎀 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glide.me/nyeintnyeintsan27/count.svg" alt="visitor count" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://media.tenor.com/4eFqKtt0XmsAAAAi/capybara.gif" width="50" />
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=nyeintnyeintsan27&label=🌸%20Capybara%20Visitors%20🌸&color=ff69b4&style=for-the-badge" alt="visitors" />
+      </td>
+      <td align="center">
+        <img src="https://media.tenor.com/4eFqKtt0XmsAAAAi/capybara.gif" width="50" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <i>💕 Thanks for visiting! Have a pink-tastic day 💕</i>
+  <i>🦦 thanks for visiting – stay chill like a capybara 🧋</i>
 </p>
 
 <p align="center">
