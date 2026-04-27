@@ -84,7 +84,7 @@
 ### 📊 GitHub Stats
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyeintnyeintsan27&theme=omni&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff99cc&currStreakLabel=ff69b4&sideLabels=555" alt="GitHub Streak" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyeintnyeintsan27&theme=omni&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff99cc&currStreakLabel=ff69b4&sideLabels=555" align="center" alt="GitHub Streak" width="48%" />
 </p>
 
 
